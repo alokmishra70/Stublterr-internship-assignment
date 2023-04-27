@@ -1,0 +1,13 @@
+; project-root
+; ├── config
+; │   └── db.js
+; ├── controllers
+; │   └── playerController.js
+; ├── models
+; │   └── playerModel.js
+; ├── routes
+; │   └── playerRoutes.js
+; ├── utils
+; │   └── googleSheets.js
+; ├── index.js
+; └── package.json 
